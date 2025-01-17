@@ -1,5 +1,5 @@
 {
-    "name": "litai",
+    "name": "budget_tracker",
     "main": "expo-router/entry",
     "version": "1.0.0",
     "scripts": {
