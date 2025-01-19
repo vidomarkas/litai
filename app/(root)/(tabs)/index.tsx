@@ -10,7 +10,7 @@ export default function Index() {
 				alignItems: "center",
 			}}
 		>
-			<Text>Budget Tracker</Text>
+			<Text className="text-lg font-bold">Budget Tracker</Text>
 			<Link href="/sign-in">Sign In</Link>
 			<Link href="/profile">Profile</Link>
 		</View>
